@@ -1,5 +1,5 @@
-title: Replace this line with your name
-description: A template for your AOS C111/204 project site.
+title: Daniel Kendall
+description: Here is my final project for A&OS C111. My project will investigate the qualities associated with dissolved oxygen in water supply. The factors that will be investigated include specific conductivity, pH, temperature, and time of year. I use various machine learning methods to predict what will be the most associative, each with its own success rate.
 logo: /assets/IMG/template_logo.png
 show_downloads: true
-theme: jekyll-theme-modernist
+theme: jekyll-theme-cayman
